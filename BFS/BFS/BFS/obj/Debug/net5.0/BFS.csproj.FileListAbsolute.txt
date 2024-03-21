@@ -1,0 +1,15 @@
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.AssemblyInfoInputs.cache
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.AssemblyInfo.cs
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.csproj.CoreCompileInputs.cache
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.exe
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.deps.json
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.runtimeconfig.json
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.runtimeconfig.dev.json
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.dll
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\ref\BFS.dll
+D:\Practice\problem-solving\BFS\BFS\BFS\bin\Debug\net5.0\BFS.pdb
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.dll
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\ref\BFS.dll
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.pdb
+D:\Practice\problem-solving\BFS\BFS\BFS\obj\Debug\net5.0\BFS.genruntimeconfig.cache

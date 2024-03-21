@@ -1,0 +1,15 @@
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.exe
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.deps.json
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.runtimeconfig.json
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.runtimeconfig.dev.json
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.dll
+D:\Practice\hour_glass\HourGlass\HourGlass2\bin\Debug\net5.0\HourGlass2.pdb
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.AssemblyInfoInputs.cache
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.AssemblyInfo.cs
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.csproj.CoreCompileInputs.cache
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.dll
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\refint\HourGlass2.dll
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.pdb
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\HourGlass2.genruntimeconfig.cache
+D:\Practice\hour_glass\HourGlass\HourGlass2\obj\Debug\net5.0\ref\HourGlass2.dll

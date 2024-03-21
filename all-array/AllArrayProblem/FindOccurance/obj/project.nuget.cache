@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+/U7jmpKYc/38p7EEnd7e1idsQfButyJ4ME2Ltyjc7/jqI3q4yzG+XF1qHj0Hte1yL4lKBYcWfN/neiNmXNjg==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\problem-solving\\all-array\\AllArrayProblem\\FindOccurance\\AllArrayProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Practice\hour_glass\BST\BST\bin\Debug\net6.0\BST.exe
+D:\Practice\hour_glass\BST\BST\bin\Debug\net6.0\BST.deps.json
+D:\Practice\hour_glass\BST\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+D:\Practice\hour_glass\BST\BST\bin\Debug\net6.0\BST.dll
+D:\Practice\hour_glass\BST\BST\bin\Debug\net6.0\BST.pdb
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.dll
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\refint\BST.dll
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.pdb
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+D:\Practice\hour_glass\BST\BST\obj\Debug\net6.0\ref\BST.dll

@@ -1,0 +1,14 @@
+D:\Practice\BFS\BFS\BFS\bin\Debug\net6.0\BFS.exe
+D:\Practice\BFS\BFS\BFS\bin\Debug\net6.0\BFS.deps.json
+D:\Practice\BFS\BFS\BFS\bin\Debug\net6.0\BFS.runtimeconfig.json
+D:\Practice\BFS\BFS\BFS\bin\Debug\net6.0\BFS.dll
+D:\Practice\BFS\BFS\BFS\bin\Debug\net6.0\BFS.pdb
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.AssemblyInfoInputs.cache
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.AssemblyInfo.cs
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.csproj.CoreCompileInputs.cache
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.dll
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\refint\BFS.dll
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.pdb
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\BFS.genruntimeconfig.cache
+D:\Practice\BFS\BFS\BFS\obj\Debug\net6.0\ref\BFS.dll

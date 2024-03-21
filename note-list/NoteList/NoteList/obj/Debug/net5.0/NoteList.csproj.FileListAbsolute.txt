@@ -1,0 +1,15 @@
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.exe
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.deps.json
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.runtimeconfig.json
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.runtimeconfig.dev.json
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.dll
+D:\Practice\note-list\NoteList\NoteList\bin\Debug\net5.0\NoteList.pdb
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.AssemblyInfoInputs.cache
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.AssemblyInfo.cs
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.csproj.CoreCompileInputs.cache
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.dll
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\refint\NoteList.dll
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.pdb
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\NoteList.genruntimeconfig.cache
+D:\Practice\note-list\NoteList\NoteList\obj\Debug\net5.0\ref\NoteList.dll

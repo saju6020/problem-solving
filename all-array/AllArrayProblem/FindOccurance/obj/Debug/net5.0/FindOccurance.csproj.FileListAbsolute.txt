@@ -1,0 +1,15 @@
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.exe
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.deps.json
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.runtimeconfig.json
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.runtimeconfig.dev.json
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.dll
+D:\Practice\find-occurance\FindOccurance\FindOccurance\bin\Debug\net5.0\FindOccurance.pdb
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.AssemblyInfoInputs.cache
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.AssemblyInfo.cs
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.csproj.CoreCompileInputs.cache
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.dll
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\refint\FindOccurance.dll
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.pdb
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\FindOccurance.genruntimeconfig.cache
+D:\Practice\find-occurance\FindOccurance\FindOccurance\obj\Debug\net5.0\ref\FindOccurance.dll

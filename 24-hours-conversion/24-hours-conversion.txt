@@ -1,0 +1,28 @@
+public static string timeConversion(string s)
+    {
+        string postFix = string.Empty;
+        
+        if(s.Contains("AM"))
+        {
+            postFix = "AM";
+            s = s.Replace("AM", "");
+        }
+        else if(s.Contains("PM"))
+        {
+            postFix = "PM";
+            s = s.Replace("PM", "");
+        }
+        
+        string[] timeArray = s.Split(":");
+        
+        if(postFix == "AM" && timeArray[0] == "12")
+        {
+            timeArray[0] = "00";
+        }
+        else if(postFix=="PM" && timeArray[0] != "12")
+        {
+            timeArray[0] = (int.Parse(timeArray[0]) + 12).ToString().PadLeft(2, '0');
+        }
+        
+        return $"{timeArray[0]}:{timeArray[1]}:{timeArray[2]}";
+    }
